@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\desktop_d\cv_project\Nidy-2.1\sdk\.cxx\cmake\debug\arm64-v8a'
+ninja: no work to do.

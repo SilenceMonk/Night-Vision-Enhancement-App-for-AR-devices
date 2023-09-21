@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "D:/desktop_d/cv_project/Nidy-2.1/sdk/.cxx/cmake/release/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/dell/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/dell/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "D:\\desktop_d\\cv_project\\Nidy-2.1\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\desktop_d\\cv_project\\Nidy-2.1\\sdk\\.cxx\\cmake\\release\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\desktop_d\\cv_project\\Nidy-2.1\\sdk\\.cxx\\cmake\\release\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv_jni_shared-Release-x86_64": {
+      "buildCommand": "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\desktop_d\\cv_project\\Nidy-2.1\\sdk\\.cxx\\cmake\\release\\x86_64\" opencv_jni_shared",
+      "buildType": "release",
+      "toolchain": "2378978869",
+      "abi": "x86_64",
+      "artifactName": "opencv_jni_shared",
+      "files": [
+        {
+          "src": "D:\\desktop_d\\cv_project\\Nidy-2.1\\sdk\\libcxx_helper\\dummy.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\desktop_d\\cv_project\\Nidy-2.1\\sdk\\.cxx\\cmake\\release\\x86_64\\libopencv_jni_shared.a"
+    }
+  },
+  "toolchains": {
+    "2378978869": {
+      "cppCompilerExecutable": "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

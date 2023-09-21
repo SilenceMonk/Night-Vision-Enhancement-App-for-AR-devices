@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "D:\\desktop_d\\cv_project\\Nidy-2.1\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\desktop_d\\cv_project\\Nidy-2.1\\sdk\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\desktop_d\\cv_project\\Nidy-2.1\\sdk\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv_jni_shared-Debug-armeabi-v7a": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommand": "C:\\Users\\dell\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\desktop_d\\cv_project\\Nidy-2.1\\sdk\\.cxx\\cmake\\debug\\armeabi-v7a\" opencv_jni_shared",
+      "abi": "armeabi-v7a",
+      "output": "D:\\desktop_d\\cv_project\\Nidy-2.1\\sdk\\.cxx\\cmake\\debug\\armeabi-v7a\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}
